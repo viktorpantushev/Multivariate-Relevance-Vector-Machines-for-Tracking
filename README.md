@@ -4,7 +4,7 @@ Imitating the results from "Multivariate Relevance Vector Machines for Tracking"
 
 My Steps:  
 1.  Use Canny Edges to extract Outlines of Hand-Poses.
-2. 
+2.  Make a hierarchy (tree based using Chapman–Kolmogorov equation)
 
  
 How to replicate:
