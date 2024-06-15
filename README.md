@@ -13,4 +13,4 @@ How to replicate:
 
 
 Current Problems:
-1.  How should I embed the hierarchy?
+1.  How should I create the hierarchy?
