@@ -4,7 +4,10 @@ Imitating the results from "Multivariate Relevance Vector Machines for Tracking"
 
 My Steps:  
 1.  Use Canny Edges to extract Outlines of Hand-Poses.
-2.   
+2. 
 
+ 
 How to replicate:
 1.  Download and save from https://www.kaggle.com/code/stpeteishii/hand-gestures-mediapipe-images/input as /images
+2.  I recommend reading https://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2003-ICCV-Stenger-filtering.pdf
+3. 
