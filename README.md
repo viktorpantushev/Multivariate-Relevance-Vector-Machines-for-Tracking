@@ -10,4 +10,7 @@ My Steps:
 How to replicate:
 1.  Download and save from https://www.kaggle.com/code/stpeteishii/hand-gestures-mediapipe-images/input as "/images"
 2.  I recommend reading https://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2003-ICCV-Stenger-filtering.pdf
-3. 
+
+
+Current Problems:
+1.  How should I embed the hierarchy?
