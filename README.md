@@ -12,5 +12,5 @@ How to replicate:
 2.  I recommend reading https://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2003-ICCV-Stenger-filtering.pdf
 
 
-Current Problems:
+Problems & Solutions:
 1.  How should I create the hierarchy?
