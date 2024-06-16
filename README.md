@@ -17,5 +17,5 @@ How to replicate:
 
 Problems & Solutions:
 1.  How should I create the hierarchy?
-<br>
+
 -> The highest level of the tree will represent the coarsest partition, thus the lowest level represents the finest partition
