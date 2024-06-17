@@ -2,11 +2,13 @@ import numpy as np
 import cv2 as cv
 from matplotlib import pyplot as plt
 
+import os
 
-img = cv.imread('bird.jpg', cv.IMREAD_GRAYSCALE)
-edges = cv.Canny(img,100,200)
-plt.subplot(121),plt.imshow(img,cmap = 'gray')
-plt.title('Original Image'), plt.xticks([]), plt.yticks([])
-plt.subplot(122),plt.imshow(edges,cmap = 'gray')
-plt.title('Edge Image'), plt.xticks([]), plt.yticks([])
-plt.show()
+paths = []
+for dirname, _, filenames in os.walk("C:/Users/vikto/PycharmProjects/Multivariate-Relevance-Vector-Machines-for-Tracking/images"):
+    for filename in filenames:
+        paths.append(os.path.join(dirname, filename).replace("\\", "/"))
+
+print(paths)
+
+
