@@ -5,8 +5,8 @@ Imitating the results from "Multivariate Relevance Vector Machines for Tracking"
 
 My Steps:  
 1. Use Canny Edges to extract Outlines of Hand-Poses.
-2. Make a hierarchy (tree ‘grid-based’ filter)
-3. Compare the histgraoms of the Canny Edges.
+2. Create a graph with polar coordinates and their distance.
+2. Make a hierarchy (tree ‘grid-based’ filter) while compare the histgraoms of the Canny Edges.
 
  <br>
  
